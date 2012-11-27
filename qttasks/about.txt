@@ -1,0 +1,2 @@
+Detta projekt är för Qt och N9 (Harmattan)
+Jag är främst ute efter att experimentara med "todo-app" relaterade features, som listor och persitent storage.
